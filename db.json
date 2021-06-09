@@ -1,0 +1,22 @@
+{
+  "activities": [
+    {
+      "activity": "Invite some friends over for a game night",
+      "type": "social",
+      "participants": "Participants: 4",
+      "id": 10
+    },
+    {
+      "activity": "Wash your car",
+      "type": "busywork",
+      "participants": "Participants: 1",
+      "id": 11
+    },
+    {
+      "activity": "Memorize the fifty states and their capitals",
+      "type": "education",
+      "participants": "Participants: 1",
+      "id": 12
+    }
+  ]
+}
