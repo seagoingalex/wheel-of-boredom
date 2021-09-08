@@ -1,8 +1,9 @@
 Phase 1 Project - Wheel of Boredom
 Collaborators: Brianna & Alex
 
-!! Remember to run JSON server to ensure the db.json file is accessed and functionality is working as intended !!
-// json-server --watch db.json
+!! Instructions !!
+1. Run json-server --watch db.json
+2. Type 'open index.html' in terminal to open application in your browser.
 
 Feature Highlights
 - Functional spinning wheel comprised of tricky HTML/CSS and elicited by an onclick function in the HTML.
@@ -30,7 +31,6 @@ What is the basic story of our application?
 >> This creates a visually appealing way to help folks bored during quarantine to quickly come up with activities to fill their day.
 
 Core features of our MVP
-- Build the wheel with HTML / CSS styling, using similar projects for reference: https://workshops.hackclub.com/spinning_wheel/
 - Populate the wheel’s tiles with random activities from the API: https://www.boredapi.com/
 >> STRETCH GOAL: Filter the activities populated on the wheel by filtering the activity type…alongside potentially other filters!
 - Return an alert with the activity and its respective details.
