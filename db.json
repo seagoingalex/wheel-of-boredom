@@ -7,16 +7,28 @@
       "id": 10
     },
     {
-      "activity": "Wash your car",
-      "type": "busywork",
-      "participants": "Participants: 1",
-      "id": 11
-    },
-    {
       "activity": "Memorize the fifty states and their capitals",
       "type": "education",
       "participants": "Participants: 1",
       "id": 12
+    },
+    {
+      "activity": "Research a topic you're interested in",
+      "type": "education",
+      "participants": "Participants: 1",
+      "id": 13
+    },
+    {
+      "activity": "Organize your basement",
+      "type": "busywork",
+      "participants": "Participants: 1",
+      "id": 15
+    },
+    {
+      "activity": "Organize your basement",
+      "type": "busywork",
+      "participants": "Participants: 1",
+      "id": 16
     }
   ]
 }
